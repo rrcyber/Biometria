@@ -1,5 +1,5 @@
 ### Biometria ###
-Sistema biométrico diseñado y desarrollado en Java con el SDK DigitalPersona. Utiliza una base de datos en mysql/mariaDB.
+Sistema biométrico diseñado y desarrollado en Java con el SDK DigitalPersona. Utiliza una base de datos en mysql/mariaDB. El proyecto se puede cargar en Netbeans o en Eclipse.
 
 <div>
   <img src="https://images10.newegg.com/BizIntell/item/00/996/00-996-148/c0.jpg" width="600" height="300"/>
