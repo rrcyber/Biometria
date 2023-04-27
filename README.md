@@ -18,7 +18,7 @@ Liberado y distribuido bajo licencia GNU v3.
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 </div>
 
-### Apoya mi emprendimiento e invítame un café: ###
+### Invítame un café: ###
 <div id="badges">
   <a href="https://www.buymeacoffee.com/elblogden4p5t3r" target="_blank">
     <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="LinkedIn Badge"/>
